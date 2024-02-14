@@ -1,7 +1,8 @@
 # from https://github.com/pages-themes/minimal?tab=readme-ov-file#usage
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+#remote_theme: pages-themes/minimal@v0.2.0
+#plugins:
+#- jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Primacy 
+title: 
+#title: Primacy 
 description: Updating site
