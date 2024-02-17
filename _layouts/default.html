@@ -21,10 +21,12 @@
     {% endcomment %}
 
     <header class="page-header" role="banner">
+
+      <img width="500em" alt="image" src="/assets/logo-web.png">
       {% comment %}
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      {% endcomment %}
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>     
       <h1 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      {% endcomment %}
     </header>
 
     <main id="content" class="main-content" role="main">
